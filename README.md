@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kyle-1291(utk@rah)
+- 👋 Hi, I’m @kyle-1291(utk@rsh)
 - 👀 I’m interested in machine learning and data science 
 - 🌱 I’m currently learning python and related library
 - 💞️ I’m looking to collaborate on machine learining projects
