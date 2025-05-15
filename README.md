@@ -2,7 +2,6 @@
 - 👀 I’m interested in machine learning and data science 
 - 🌱 I’m currently learning python and related library
 - 💞️ I’m looking to collaborate on machine learining projects
-- 📫 How to reach me : "aneejameswatson1291@gmail.com"
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: no fun
 
